@@ -1,16 +1,55 @@
 ## Hi there 👋
 
-<!--
-**Ayushhuh/Ayushhuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ayush
 
-Here are some ideas to get you started:
+CS student who likes building stuff and figuring out how things work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my time goes into backend development, cybersecurity, system design, and solving problems that make me question my life choices for a few hours.
+
+### Stuff I work with
+
+* Java
+* Python
+* JavaScript
+* Django
+* Flask
+* MERN Stack
+* Postgres
+* Git
+* Linux
+
+### Currently Building
+
+* ERP systems
+* Management platforms
+* Cybersecurity projects
+* Quantum cryptography experiments
+* Random ideas that sounded good at 2 AM
+
+### DSA
+
+I enjoy solving algorithmic problems, optimizing solutions, and finding out why my O(n²) masterpiece shouldn't exist.
+
+### Things I Like
+
+* Cybersecurity
+* Cryptography
+* Backend engineering
+* System design
+* AI agents
+* Competitive programming
+* Building products from scratch
+
+### Fun Fact
+
+If there's a manual, I'll probably ignore it.
+
+If there's source code, I'll read it.
+
+### GitHub Stats
+
+Replace with your stats badges because numbers look cooler when GitHub generates them.
+
+---
+
+Building. Learning. Repeating.
