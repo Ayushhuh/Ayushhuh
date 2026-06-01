@@ -46,10 +46,5 @@ If there's a manual, I'll probably ignore it.
 
 If there's source code, I'll read it.
 
-### GitHub Stats
-
-Replace with your stats badges because numbers look cooler when GitHub generates them.
-
----
 
 Building. Learning. Repeating.
