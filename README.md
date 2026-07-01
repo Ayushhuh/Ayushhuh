@@ -40,11 +40,6 @@ I enjoy solving algorithmic problems, optimizing solutions, and finding out why 
 * Competitive programming
 * Building products from scratch
 
-### Fun Fact
-
-If there's a manual, I'll probably ignore it.
-
-If there's source code, I'll read it.
 
 
 Building. Learning. Repeating.
